@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    color: red
+}
+
+html {
+    background-color: aquamarine;
+}
+
+#home {
+    max-width: 1500px;
+}
+
+#home-holder {
+    text-align: center;
+}
+
+.home-text {
+    margin: 50px 50px 50px 50px;
+    font-weight: 1000;
+    font-size: 25px;
+    
+}
+
+footer {
+    text-align: center;
+    font-size: 40px;
+}
+
+footer a{
+    padding-left: 10px;
+}
+
+.text {
+    width: 50%;
+}
+
+.text1, .text2 {
+    margin: 100px 100px 100px 100px;
+}
+
+.second-image {
+    height: 300px;
+    width: 500px;
+}
+
+.second-holder {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.images {
+    width: 50%;
+}
+
+.images img {
+    margin-top: 10px;
+}
+
+p, li {
+    font-weight: 1000;
+    font-size: 18px;
+}
