@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: red
+}
+
+html {
+    background-color: aquamarine;
+}
+
+#home {
+    max-width: 1500px;
+}
+
+#home-holder {
+    text-align: center;
+}
+
+.home-text {
+    margin: 50px 50px 50px 50px;
+    font-weight: 1000;
+    font-size: 25px;
+    
+}
+
+footer {
+    text-align: center;
+    font-size: 40px;
+}
+
+footer a{
+    padding-left: 10px;
+}
