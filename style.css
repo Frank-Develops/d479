@@ -9,6 +9,7 @@ html {
 
 #home {
     max-width: 1500px;
+    max-height: 600px;
 }
 
 #home-holder {
